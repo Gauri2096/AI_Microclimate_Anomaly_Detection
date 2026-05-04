@@ -1,0 +1,24 @@
+# Datasets and models
+data/
+images/
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Generated/local files
+feedback.csv
+graphs.py
